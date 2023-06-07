@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Minimap
+  m_SortingLayers:
+  - name: Map Border
+    uniqueID: 2329980001
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1143059221
+    locked: 0
+  - name: Shadows
+    uniqueID: 301039265
+    locked: 0
+  - name: Walls 1
+    uniqueID: 437356197
+    locked: 0
+  - name: Walls 2
+    uniqueID: 2259581665
+    locked: 0
+  - name: Walls 3
+    uniqueID: 1944810759
+    locked: 0
+  - name: Walls 4
+    uniqueID: 527549831
+    locked: 0
+  - name: Walls 5
+    uniqueID: 570915161
+    locked: 0
+  - name: Collision Objects
+    uniqueID: 2436730093
+    locked: 0
+  - name: Platform
+    uniqueID: 370847593
+    locked: 0
+  - name: Player
+    uniqueID: 1789340239
+    locked: 0
+  - name: Ground Level Terrain
+    uniqueID: 2763661859
+    locked: 0
+  - name: Walls 1 terrain
+    uniqueID: 2687060615
+    locked: 0
+  - name: Walls 2 terrain
+    uniqueID: 2505657209
+    locked: 0
+  - name: Walls 3 terrain
+    uniqueID: 590335927
+    locked: 0
+  - name: Walls 4 terrain
+    uniqueID: 4114871603
+    locked: 0
+  - name: Walls 5 terrain
+    uniqueID: 168668811
+    locked: 0
+  - name: Stone overlays
+    uniqueID: 2956237575
+    locked: 0
+  - name: PopUps
+    uniqueID: 4275619815
+    locked: 0
