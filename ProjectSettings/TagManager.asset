@@ -9,11 +9,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Obstacle
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - Zombie
   - 
   - 
   - 
@@ -74,6 +74,9 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 1789340239
+    locked: 0
+  - name: Zombie
+    uniqueID: 2363804567
     locked: 0
   - name: Ground Level Terrain
     uniqueID: 2763661859
